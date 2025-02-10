@@ -1,4 +1,4 @@
-# git-exercise-fa24
+# git-exercise-sp25
 
 Welcome to Lab04's Git Exercise where you'll be exploring this repository. 
 
